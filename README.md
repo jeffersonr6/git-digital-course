@@ -3,4 +3,5 @@
 ## Gravando mudanças no repositório
 ## Salvando modificações no GIT
 
-Nova mudança
+* uso do comando git restores
+* comando git push
